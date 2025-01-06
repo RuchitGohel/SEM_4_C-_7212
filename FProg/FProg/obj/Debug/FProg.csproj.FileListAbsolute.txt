@@ -1,0 +1,7 @@
+D:\7212\C#\FProg\FProg\bin\Debug\FProg.exe.config
+D:\7212\C#\FProg\FProg\bin\Debug\FProg.exe
+D:\7212\C#\FProg\FProg\bin\Debug\FProg.pdb
+D:\7212\C#\FProg\FProg\obj\Debug\FProg.csproj.AssemblyReference.cache
+D:\7212\C#\FProg\FProg\obj\Debug\FProg.csproj.CoreCompileInputs.cache
+D:\7212\C#\FProg\FProg\obj\Debug\FProg.exe
+D:\7212\C#\FProg\FProg\obj\Debug\FProg.pdb
