@@ -8,7 +8,7 @@ namespace UNIT_4
 {
     internal class Jagged_Array
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string[][] jag = new string[5][];
             

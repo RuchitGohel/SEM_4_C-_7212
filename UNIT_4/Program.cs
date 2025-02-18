@@ -17,7 +17,7 @@ namespace UNIT_IV
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             Console.WriteLine("Enter Length of Rectangle :");
             int length = int.Parse(Console.ReadLine());

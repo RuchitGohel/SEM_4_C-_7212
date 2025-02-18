@@ -8,7 +8,7 @@ namespace UNIT_4
 {
     internal class Back_Marks
     {
-        public static void Main(string[] args)
+        public static void Main2(string[] args)
         {
             int[][] back = new int[3][];
             for(int i = 0; i < back.Length; i++)
@@ -34,8 +34,6 @@ namespace UNIT_4
                 }
                 Console.ReadLine();
             }
-            
-
         }
     }
 }
