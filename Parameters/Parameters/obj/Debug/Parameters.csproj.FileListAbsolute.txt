@@ -1,0 +1,7 @@
+D:\RUCHIT_7212_C#\Parameters\Parameters\bin\Debug\Parameters.exe.config
+D:\RUCHIT_7212_C#\Parameters\Parameters\bin\Debug\Parameters.exe
+D:\RUCHIT_7212_C#\Parameters\Parameters\bin\Debug\Parameters.pdb
+D:\RUCHIT_7212_C#\Parameters\Parameters\obj\Debug\Parameters.csproj.AssemblyReference.cache
+D:\RUCHIT_7212_C#\Parameters\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+D:\RUCHIT_7212_C#\Parameters\Parameters\obj\Debug\Parameters.exe
+D:\RUCHIT_7212_C#\Parameters\Parameters\obj\Debug\Parameters.pdb
